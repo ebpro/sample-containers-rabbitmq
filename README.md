@@ -1,4 +1,4 @@
-# sample-containers-rabbitmq
+# Rabbit MQ Sample
 
 Exemple canonique de file d'attente **RabbitMQ** : producteur et consommateur Python
 (`pika`) échangés via un conteneur `rabbitmq:3`.
